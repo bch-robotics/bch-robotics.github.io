@@ -85,7 +85,10 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Eccentric.png" alt="Slide 16"/>
         </div>
 	    <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Robotics.png" alt="Slide 16"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Robotics.png" alt="Slide 17"/>
+        </div>
+	    <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group_02_28_2025.png" alt="Slide 18"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
