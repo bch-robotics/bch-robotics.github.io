@@ -1,5 +1,21 @@
 - year: 2025
-  title: "Comparison of Classical, Neural Network and Hybrid Models for Hysteretic Single-Tendon Catheter Kinematics"
+  title: "A comparison of laser, electrosurgical, and mechanical transcatheter traversal of calcified aortic valve leaflets"
+  description: XXX
+  authors: M. McCandless, S. Otto, S. Elmariah, N. Langer, P.E. Dupont
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2950605025000130
+    display: JTCVS Structural and Endovascular, vol 6, pp. 100054, 2025
+  highlight: 0
+
+- title: "Toward Robot-Assisted Transcatheter Laser-based Cutting of Calcified Heart Valve Tissue"
+  description: XXX
+  authors: M. McCandless, S. Otto, S. Elmariah, N. Langer, P.E. Dupont
+  link:
+    url: https://www.hamlynsymposium.org/wp-content/uploads/2025/06/HSMR25-Proceedings-Final-Reduced.pdf
+    display: HSMR2025: THE 17TH HAMLYN SYMPOSIUM ON MEDICAL ROBOTICS, 81-82
+  highlight: 0
+  
+- title: "Comparison of Classical, Neural Network and Hybrid Models for Hysteretic Single-Tendon Catheter Kinematics"
   description: XXX
   authors: Y. Wang, P.E. Dupont
   link:
@@ -45,7 +61,8 @@
   description: XXX
   authors: M. McCandless, S. Otto, P.E. Dupont
   link:
-    url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/HSMR_2024_Max.pdf
+    url: https://www.hamlynsymposium.org/wp-content/uploads/2024/06/HSMR24-Proceedings-v2.pdf
+    # url: https://docs.google.com/viewer?url=https://github.com/bch-robotics/bch-robotics.github.io/raw/gh-pages/_pdfs/HSMR_2024_Max.pdf
     display: Hamlyn Symposium on Medical Robotics, pp. 101-102, 2024
   highlight: 0
   
