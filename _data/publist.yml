@@ -14,6 +14,22 @@
     url: https://www.hamlynsymposium.org/wp-content/uploads/2025/06/HSMR25-Proceedings-Final-Reduced.pdf
     display: THE 17TH HAMLYN SYMPOSIUM ON MEDICAL ROBOTICS, pp. 81-82, 2025
   highlight: 0
+
+  - title: "Using Robotics to Facilitate Transcatheter Valve Repair"
+  description: XXX
+  authors: L. Pistorius, N. Nayar, P. Tran, S. Elmariah, P.E. Dupont
+  link:
+    url: https://www.hamlynsymposium.org/wp-content/uploads/2025/06/HSMR25-Proceedings-Final-Reduced.pdf
+    display: THE 17TH HAMLYN SYMPOSIUM ON MEDICAL ROBOTICS, pp. 85-86, 2025
+  highlight: 0
+
+  - title: "Universal Robotic Platform for Cardiac Procedures with Task-Specific Control Modes"
+  description: XXX
+  authors: N. Nayar, P. Tran, A. Donder, P.E. Dupont
+  link:
+    url: https://www.hamlynsymposium.org/wp-content/uploads/2025/06/HSMR25-Proceedings-Final-Reduced.pdf
+    display: THE 17TH HAMLYN SYMPOSIUM ON MEDICAL ROBOTICS, pp. 45-46, 2025
+  highlight: 0
   
 - title: "Comparison of Classical, Neural Network and Hybrid Models for Hysteretic Single-Tendon Catheter Kinematics"
   description: XXX
