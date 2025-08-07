@@ -1,5 +1,21 @@
 - year: 2025
-  title: "A comparison of laser, electrosurgical, and mechanical transcatheter traversal of calcified aortic valve leaflets"
+  title: "The grand challenges of learning medical robot autonomy"
+  description: XXX
+  authors: P.E. Dupont, A. Degirmenci
+  link:
+    url: https://www.science.org/doi/10.1126/scirobotics.adz8279
+    display: Science Robotics 10 (104), eadz8279 (2025)
+  highlight: 0
+
+- title: "Medical robots learn to be autonomous"
+  description: XXX
+  authors: P.E. Dupont
+  link:
+    url: https://www.science.org/doi/full/10.1126/scirobotics.adz8291
+    display: Science Robotics 10 (104), eadz8291 (2025)
+  highlight: 0
+
+- title: "A comparison of laser, electrosurgical, and mechanical transcatheter traversal of calcified aortic valve leaflets"
   description: XXX
   authors: M. McCandless, S. Otto, S. Elmariah, N. Langer, P.E. Dupont
   link:
