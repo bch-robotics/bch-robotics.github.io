@@ -60,8 +60,8 @@
   description: XXX
   authors: G. Pittiglio, A. Donder and P. E. Dupont
   link:
-    url: https://arxiv.org/abs/2410.16025
-    display: arXiv preprint arXiv:2410.16025
+    url: https://ieeexplore.ieee.org/abstract/document/10801952
+    display: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 11004-11009, 2024
   highlight: 0
   
 - title: "Magnetic Ball Chain Robots for Cardiac Arrhythmia Treatment"
