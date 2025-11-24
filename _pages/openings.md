@@ -24,3 +24,7 @@ Qualified applicants should respond by [email](mailto:Pierre.Dupont@childrens.ha
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/LunchSept2023.jpg" width="95%">
 </figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/Yuan Goodbye Lunch 2025.jpg" width="95%">
+</figure>
