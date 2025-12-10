@@ -1,5 +1,38 @@
 - year: 2025
-  title: "The grand challenges of learning medical robot autonomy"
+
+- title: "Closed-loop Control of Steerable Balloon Endoscopes for Robot-assisted Transcatheter Intracardiac Procedures"
+  description: XXX
+  authors: M. McCandless, J. Hamid, S. Elmariah, N. Langer, P.E. Dupont
+  link:
+    url: https://arxiv.org/pdf/2511.01199
+    display: arXiv preprint arXiv:2511.01199 (2025)
+  highlight: 0
+
+  - title: "A Comprehensive General Model of Tendon-Actuated Concentric Tube Robots with Multiple Tubes and Tendons"
+  description: XXX
+  authors: P. Kheradmand, B. Moradkhani, R. Sankaranarayanan, K. K. Yamamoto, T. J. Zachem, P. J. Codd, Y. Chitalia, P.E. Dupont
+  link:
+    url: https://arxiv.org/pdf/2510.23954
+    display: arXiv preprint arXiv:2510.23954 (2025)
+  highlight: 0
+
+  - title: "Few-Shot Magnet Localization Using Sim-to-Real Transfer Learning"
+  description: XXX
+  authors: Y. Wang, G. Pittiglio, X. Lin, P.E. Dupont
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/11206571
+    display: IEEE Robotics and Automation Letters, vol. 10, no. 12, pp. 12660-12667, 2025
+  highlight: 0
+
+  - title: "Using Robotics to Improve Transcatheter Edge-to-Edge Repair of the Mitral"
+  description: XXX
+  authors: L. Pistorius, N. U. Naya, P. Tran, S. Elmariah, P.E. Dupont
+  link:
+    url: https://arxiv.org/pdf/2510.04178
+    display: arXiv preprint arXiv:2510.04178 (2025)
+  highlight: 0
+
+- title: "The grand challenges of learning medical robot autonomy"
   description: XXX
   authors: P.E. Dupont, A. Degirmenci
   link:
