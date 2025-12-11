@@ -1,6 +1,5 @@
 - year: 2025
-
-- title: "Closed-loop Control of Steerable Balloon Endoscopes for Robot-assisted Transcatheter Intracardiac Procedures"
+  title: "Closed-loop Control of Steerable Balloon Endoscopes for Robot-assisted Transcatheter Intracardiac Procedures"
   description: XXX
   authors: M. McCandless, J. Hamid, S. Elmariah, N. Langer, P.E. Dupont
   link:
@@ -8,7 +7,7 @@
     display: arXiv preprint arXiv:2511.01199 (2025)
   highlight: 0
 
-  - title: "A Comprehensive General Model of Tendon-Actuated Concentric Tube Robots with Multiple Tubes and Tendons"
+- title: "A Comprehensive General Model of Tendon-Actuated Concentric Tube Robots with Multiple Tubes and Tendons"
   description: XXX
   authors: P. Kheradmand, B. Moradkhani, R. Sankaranarayanan, K. K. Yamamoto, T. J. Zachem, P. J. Codd, Y. Chitalia, P.E. Dupont
   link:
@@ -16,7 +15,7 @@
     display: arXiv preprint arXiv:2510.23954 (2025)
   highlight: 0
 
-  - title: "Few-Shot Magnet Localization Using Sim-to-Real Transfer Learning"
+- title: "Few-Shot Magnet Localization Using Sim-to-Real Transfer Learning"
   description: XXX
   authors: Y. Wang, G. Pittiglio, X. Lin, P.E. Dupont
   link:
@@ -24,7 +23,7 @@
     display: IEEE Robotics and Automation Letters, vol. 10, no. 12, pp. 12660-12667, 2025
   highlight: 0
 
-  - title: "Using Robotics to Improve Transcatheter Edge-to-Edge Repair of the Mitral"
+- title: "Using Robotics to Improve Transcatheter Edge-to-Edge Repair of the Mitral"
   description: XXX
   authors: L. Pistorius, N. U. Naya, P. Tran, S. Elmariah, P.E. Dupont
   link:
