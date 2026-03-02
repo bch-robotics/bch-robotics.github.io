@@ -8,13 +8,13 @@
   photo: Max2.png
   interests: Medical Robotics, Surgical Robotics, Soft Robotic Sensing and Actuation
   email: Max.McCandless@childrens.harvard.edu
-  bio: Max received his Ph.D. in 2023 from Boston University. His research involves the design, modeling, and control of soft robots for minimally invasive surgery.​ He is working toward developing new robots for cardiac interventions.
+  bio: Max received his Ph.D. in 2023 from Boston University. His research involves the design, modeling, and control of robots for minimally invasive surgery.​ He is working toward developing new robots and tools for transcatheter cardiac interventions.
 
-- name: Abhijit Mondal, Ph.D.
-  photo: Abhijit.jpg
-  interests: Biomedical engineering, medical devices, intraoperative imaging, endoscopy
-  email: Abhijit.Mondal@childrens.harvard.edu
-  bio: Abhijit received his PhD in Bioengineering in 2017 from University of Utah (Salt Lake City, UT, USA). His research involves the development of airway stent systems for treating tracheobronchomalacia.
+#- name: Abhijit Mondal, Ph.D.
+#  photo: Abhijit.jpg
+#  interests: Biomedical engineering, medical devices, intraoperative imaging, endoscopy
+#  email: Abhijit.Mondal@childrens.harvard.edu
+#  bio: Abhijit received his PhD in Bioengineering in 2017 from University of Utah (Salt Lake City, UT, USA). His research involves the development of airway stent systems for treating tracheobronchomalacia.
 
 - name: Yuan Wang, M.S.
   photo: Yuan.png
