@@ -1,5 +1,5 @@
 - year: 2026
-- title: "Toward autonomous robotic-assisted and microrobotic surgery"
+title: "Toward autonomous robotic-assisted and microrobotic surgery"
   description: XXX
   authors: S. Yang, B. Ha Kang, H. Min, J. P. Wachs, F. Alambeigi, J. P. Desai, P.E. Dupont, K. Yaeger, K. Andeson, A. Kuntz, R. Alterovitz, R. J. Webster III, N. Hata, J. S. Reisenauer, M. Clinch, A. Abramson, J. Ying Wu, T. Ranzani, P. C. Kim, A. S. Huang, C. Sun, H. F. Zhang, C. N. Riviere, E. R. Henderson, M. Yip, X. Dong, D. A. Wollin, D. H. Gracias, L. O. Mair, M. Karpelson, R. J. Wood, I. Cohen, M. S. Strano
   link:
@@ -48,7 +48,7 @@
   highlight: 0
 
 - year: 2025
-- title: "Few-Shot Magnet Localization Using Sim-to-Real Transfer Learning"
+title: "Few-Shot Magnet Localization Using Sim-to-Real Transfer Learning"
   description: XXX
   authors: Y. Wang, G. Pittiglio, X. Lin, P.E. Dupont
   link:
