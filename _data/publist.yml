@@ -1,26 +1,34 @@
-- year: 2025
-  title: "Closed-loop Control of Steerable Balloon Endoscopes for Robot-assisted Transcatheter Intracardiac Procedures"
+- year: 2026
+- title: "Toward autonomous robotic-assisted and microrobotic surgery"
   description: XXX
-  authors: M. McCandless, J. Hamid, S. Elmariah, N. Langer, P.E. Dupont
+  authors: S. Yang, B. Ha Kang, H. Min, J. P. Wachs, F. Alambeigi, J. P. Desai, P.E. Dupont, K. Yaeger, K. Andeson, A. Kuntz, R. Alterovitz, R. J. Webster III, N. Hata, J. S. Reisenauer, M. Clinch, A. Abramson, J. Ying Wu, T. Ranzani, P. C. Kim, A. S. Huang, C. Sun, H. F. Zhang, C. N. Riviere, E. R. Henderson, M. Yip, X. Dong, D. A. Wollin, D. H. Gracias, L. O. Mair, M. Karpelson, R. J. Wood, I. Cohen, M. S. Strano
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/11395582
-    display: IEEE Robotics and Automation Letters, vol. 11, no. 4, pp. 4211-4218, 2026
+    url: https://www.science.org/doi/full/10.1126/sciadv.aec4197
+    display: Science Advances, vol. 12, eaec4197, 2026
   highlight: 0
+
+- title: "Toward Robotic Enlargement of the Heart's Left Ventricular Outflow Tract"
+  description: XXX
+  authors: S. Bottoni, M. McCandless, P.E. Dupont
+  link:
+    url: https://www.hamlynsymposium.org/wp-content/uploads/2026/06/HSMR26-Proceedings-web.pdf
+    display: THE 18TH HAMLYN SYMPOSIUM ON MEDICAL ROBOTICS, pp. 153-154, 2026
+  highlight: 0
+
+- title: "Robotic Closure of the Left Atrial Appendage"
+  description: XXX
+  authors: M. Doikova, N. Shihora, P.E. Dupont
+  link:
+    url: https://www.hamlynsymposium.org/wp-content/uploads/2026/06/HSMR26-Proceedings-web.pdf
+    display: THE 18TH HAMLYN SYMPOSIUM ON MEDICAL ROBOTICS, pp. 151-152, 2026
+  highlight: 0  
 
 - title: "A Comprehensive General Model of Tendon-Actuated Concentric Tube Robots with Multiple Tubes and Tendons"
   description: XXX
   authors: P. Kheradmand, B. Moradkhani, R. Sankaranarayanan, K. K. Yamamoto, T. J. Zachem, P. J. Codd, Y. Chitalia, P.E. Dupont
   link:
     url: https://arxiv.org/pdf/2510.23954
-    display: arXiv preprint arXiv:2510.23954 (2025)
-  highlight: 0
-
-- title: "Few-Shot Magnet Localization Using Sim-to-Real Transfer Learning"
-  description: XXX
-  authors: Y. Wang, G. Pittiglio, X. Lin, P.E. Dupont
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/11206571
-    display: IEEE Robotics and Automation Letters, vol. 10, no. 12, pp. 12660-12667, 2025
+    display: IEEE Transactions on Medical Robotics and Bionics 2026
   highlight: 0
 
 - title: "Using Robotics to Improve Transcatheter Edge-to-Edge Repair of the Mitral"
@@ -28,7 +36,24 @@
   authors: L. Pistorius, N. U. Naya, P. Tran, S. Elmariah, P.E. Dupont
   link:
     url: https://arxiv.org/pdf/2510.04178
-    display: arXiv preprint arXiv:2510.04178 (2025)
+    display: IEEE Robotics and Automation Letters, vol. 11, no. 7, pp. 8463-8470, 2026
+  highlight: 0
+  
+- title: "Closed-loop Control of Steerable Balloon Endoscopes for Robot-assisted Transcatheter Intracardiac Procedures"
+  description: XXX
+  authors: M. McCandless, J. Hamid, S. Elmariah, N. Langer, P.E. Dupont
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/11395582
+    display: IEEE Robotics and Automation Letters, vol. 11, no. 4, pp. 4211-4218, 2026
+  highlight: 0
+
+- year: 2025
+- title: "Few-Shot Magnet Localization Using Sim-to-Real Transfer Learning"
+  description: XXX
+  authors: Y. Wang, G. Pittiglio, X. Lin, P.E. Dupont
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/11206571
+    display: IEEE Robotics and Automation Letters, vol. 10, no. 12, pp. 12660-12667, 2025
   highlight: 0
 
 - title: "The grand challenges of learning medical robot autonomy"
