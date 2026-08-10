@@ -34,6 +34,12 @@
   email: Bryan.Lee@childrens.harvard.edu
   bio: Bryan received his Ph.D. in 2025 from Boston University, where his research focused on design, manufacturing and control of soft-rigid hybrid robots. His current research involves developing transcatheter robotic devices for minimally invasive cardiac procedures.
 
+- name: William Jones, B.S.
+  photo: William.jpg
+  interests:  Modeling and Simulation, Computer Vision, Augmented Reality
+  email: William.Jones@childrens.harvard.edu
+  bio: William studies computational science at ETH Zürich, focusing on robotics and biomedical engineering. He is currently working on imaging and modeling methods for transcatheter cardiac interventions.
+
 #- name: Maria Doikova, B.S. 
 #  photo: Maria.PNG
 #  interests: Medical and Surgical Devices, Design, Biomedical Engineering
