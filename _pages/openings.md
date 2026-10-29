@@ -12,14 +12,21 @@ permalink: /vacancies
 
 **We currently have open Postdoctoral Positions for the following project:**
 
-<div align="justify">Robotic Catheters and Heart Valve Repair Technologies – This project involves creating novel implants for heart valve repair together with a robotic catheter delivery platform. Important components of this project include implantable device design, the design, modeling and control of the steerable delivery catheter, the integration of catheter-based multi-modal sensing and in vivo testing of the overall system. Experience in medical device and robot design, modeling and prototyping is preferred. It is expected that the successful candidates will hold a PhD in engineering, physics or computer science. 
+<div align="justify">Autonomous Robotic Cardiac Catheters – We are developing robotic catheters for heart valve repair. Robotics offers the advantage of reducing the learning curve for complex beating-heart procedures and provides a platform for introducing automation. Important components of this project can include: (1) developing and implementing autonomous image-based control strategies, (2) integration of therapeutic devices, and (3) testing in anatomical and animal models. Experience in medical robotics, learning, control and prototyping is required.
+  
+Transcatheter Heart Valve Repair and Replacement Devices – Transcatheter procedures avoid the trauma and risks of open-heart surgery by delivering devices that are intended to replicate surgical repair and replacement. We are creating novel devices and tools for both valve repair and replacement. These projects require innovative design and creative problem-solving skills along with expertise in prototyping and experimental evaluation.
 
-Qualified applicants should respond by [email](mailto:Pierre.Dupont@childrens.harvard.edu) to Prof. Pierre Dupont with a description of their qualifications, academic background, PhD thesis, publications, career goals and availability. They should include pdf’s of up to 3 publications. 
+Qualified applicants should respond by [email](mailto:Pierre.Dupont@childrens.harvard.edu) to Prof. Pierre Dupont with a description of their qualifications, academic background, PhD thesis, publications, career goals and availability. Please include pdf’s of up to 3 relevant publications.
+
+Due to the high volume of inquiries, we are unable to respond to each one individually. Only candidates who are a strong match for a current opening will be contacted.
 
 ### PhD and MS students from abroad:
 
-<div align="justify">We regularly welcome MS and PhD students from abroad who wish to do their research as part of our team. If you are interested, please [email](mailto:Pierre.Dupont@childrens.harvard.edu) Prof. Pierre Dupont explaining how you know about the group and why you are interested in working with us. Include a CV and college transcript. 
+<div align="justify">We regularly welcome MS and PhD students from abroad who wish to do their research as part of our team. Visiting graduate students must already be enrolled in a graduate degree program at another institution and have independent funding to support their visit. If you are interested, please [email](mailto:Pierre.Dupont@childrens.harvard.edu) Prof. Pierre Dupont explaining how you know about the group and why you are interested in working with us. Include a CV and college transcript. 
 
+### PhD and MS students from abroad:
+
+Unfortunately, my hospital does not offer MS and PhD programs.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/LunchSept2023.jpg" width="95%">
